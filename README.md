@@ -50,6 +50,7 @@
 - [docs.circom.io](https://docs.circom.io/) - official Circom docs
 - [Circom & Snarkjs talk](https://www.youtube.com/watch?v=-9TJa1hVsKA) - Jordi Baylina's talk at zkSummit 2019
 - [Electron Labs - Intro to Circom](https://docs.electronlabs.org/intro-to-circom) - Usage of language syntax and programming practices
+- [BattleZips Zero Knowledge Crash Course](https://www.youtube.com/channel/UCcVGZqz46ELMsjVRIr0VOxw) - Tutorial on building a battleship game on Ethereum & Circom
 
 ## Projects using Circom
 - [hermeznetwork/circuits](https://github.com/hermeznetwork/circuits) - Hermez network circuits
