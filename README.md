@@ -9,6 +9,7 @@
 - [Provers](#provers)
 - [Code editors](#code-editors)
 - [Tutorials & docs](#tutorials--docs)
+- [Papers](#papers)
 - [Projects using Circom](#projects-using-circom)
 
 
@@ -51,6 +52,15 @@
 - [Circom & Snarkjs talk](https://www.youtube.com/watch?v=-9TJa1hVsKA) - Jordi Baylina's talk at zkSummit 2019
 - [Electron Labs - Intro to Circom](https://docs.electronlabs.org/intro-to-circom) - Usage of language syntax and programming practices
 - [BattleZips Zero Knowledge Crash Course](https://www.youtube.com/channel/UCcVGZqz46ELMsjVRIr0VOxw) - Tutorial on building a battleship game on Ethereum & Circom
+- [Introduction to Zero Knowledge Proof](https://github.com/enricobottazzi/ZKverse) - Tutorial inspired by the presentation "All About the ZkVerse | Polygon" performed by Jordi Baylina at EthDenver22
+
+## Papers
+> Papers on Circom related constructions and primitives implemented in the circomlib standard library
+
+- [CIRCOM: A Robust and Scalable Language for Building Complex Zero-Knowledge CircuitsComplex Zero-Knowledge Circuits](https://www.techrxiv.org/articles/preprint/CIRCOM_A_Robust_and_Scalable_Language_for_Building_Complex_Zero-Knowledge_Circuits/19374986/1/files/34409498.pdf)
+- [Sparse Merkle Trees](https://docs.iden3.io/publications/pdfs/Merkle-Tree.pdf)
+- [Baby Jubjub Elliptic Curve](https://iden3-docs.readthedocs.io/en/latest/_downloads/33717d75ab84e11313cc0d8a090b636f/Baby-Jubjub.pdf) & [EIP-2494](https://eips.ethereum.org/EIPS/eip-2494)
+- [Poseidon: A New Hash Function for Zero-Knowledge Proof Systems](https://eprint.iacr.org/2019/458)
 
 ## Projects using Circom
 - [hermeznetwork/circuits](https://github.com/hermeznetwork/circuits) - Hermez network circuits
