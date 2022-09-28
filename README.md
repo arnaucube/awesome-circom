@@ -46,6 +46,7 @@
 - [zkrepl](https://github.com/0xPARC/zkrepl) - Online playground for Circom circuits
 - [vscode plugin](https://github.com/iden3/circom-highlighting-vscode) - VSCode syntax highlighting plugin
 - [vim plugin](https://github.com/iden3/vim-circom-syntax) - Vim syntax highlighting plugin
+- [Shield Cli](https://github.com/xorddotcom/SHIELD) - SHIELD is a development framework for circom developers. SHIELD is a tool to provide libraries, plugins, and testing tools to ensure code quality and security.
 
 ## Tutorials & docs
 - [docs.circom.io](https://docs.circom.io/) - official Circom docs
