@@ -7,7 +7,7 @@
    - [In Circom](#cryptographic-primitives-in-circom)
    - [In other languages](#cryptographic-primitives-in-other-languages)
 - [Provers](#provers)
-- [Code editors](#code-editors)
+- [Code editors & tooling](#code-editors--tooling)
 - [Tutorials & docs](#tutorials--docs)
 - [Papers](#papers)
 - [Projects using Circom](#projects-using-circom)
@@ -42,11 +42,12 @@
 - [go-circom-prover-verifier](https://github.com/iden3/go-circom-prover-verifier/) - Go implementation of the Groth16 zkSNARK Prover and Verifier compatible with Circom
 - [go-circom-witnesscalc](https://github.com/iden3/go-circom-witnesscalc) - Witness Calculator in go, calling WASM
 
-## Code editors
+## Code editors & tooling
 - [zkrepl](https://github.com/0xPARC/zkrepl) - Online playground for Circom circuits
 - [vscode plugin](https://github.com/iden3/circom-highlighting-vscode) - VSCode syntax highlighting plugin
 - [vim plugin](https://github.com/iden3/vim-circom-syntax) - Vim syntax highlighting plugin
 - [Shield Cli](https://github.com/xorddotcom/SHIELD) - SHIELD is a development framework for circom developers. SHIELD is a tool to provide libraries, plugins, and testing tools to ensure code quality and security.
+- [Circomspect](https://github.com/trailofbits/circomspect) - static analyzer and linter for the Circom programming language
 
 ## Tutorials & docs
 - [docs.circom.io](https://docs.circom.io/) - official Circom docs
