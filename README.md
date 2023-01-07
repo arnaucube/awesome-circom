@@ -73,3 +73,4 @@
 - [worldcoin/semaphore-rs](https://github.com/worldcoin/semaphore-rs) - Rust support library for using semaphore
 - [0xPARC/zk-group-sigs](https://github.com/0xPARC/zk-group-sigs) - Group signatures implemented with zkSNARKs
 - [vocdoni/zk-franchise-proof-circuit](https://github.com/vocdoni/zk-franchise-proof-circuit) - Census proof anonymous voting circuit
+- [web3-master/zksnark-sudoku](https://github.com/web3-master/zksnark-sudoku) - Sudoku verifier using zkSNARK and circom.
